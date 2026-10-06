@@ -41,4 +41,4 @@ Date manipulation (EXTRACT, DATE_TRUNC) for time-series trend analysis.
 📈 Tableau Dashboard Features
 The cleaned dataset was connected to Tableau to bring the metrics to life through an executive-ready interface:
 
-Executive KPI Banner
+
