@@ -1,5 +1,5 @@
-# SALES-GROWTH-MONITOR-
-An end-to-end e-commerce data analytics project evaluating sales performance, customer behavior, and profitability. Utilized SQL for data cleaning, advanced querying (CTEs, Window Functions), and exploratory analysis, followed by Tableau to build an interactive executive dashboard highlighting KPIs, seasonal trends, and customer segmentation
+# SALES_GROWTH_MONITOR
+
 📊 SALES GROWTH MONITOR
 An end-to-end data analytics project evaluating e-commerce sales performance, customer behavior, and profitability using SQL and Tableau.
 
@@ -41,29 +41,4 @@ Date manipulation (EXTRACT, DATE_TRUNC) for time-series trend analysis.
 📈 Tableau Dashboard Features
 The cleaned dataset was connected to Tableau to bring the metrics to life through an executive-ready interface:
 
-Executive KPI Banner: Instant view of Total Revenue, Total Profit, and Profit Margin %.
-
-Time-Series Area Chart: Month-over-month (MoM) sales growth tracking.
-
-Geographical Heatmap: Sales distribution across different states and regions.
-
-Interactive Filters: Dynamic slicers for Year, Customer Segment, and Product Category.
-
-💡 Key Insights & Recommendations
-📈 Seasonal Spikes:
-
-Insight: Revenue consistently surges in Q4, peaking in November and December.
-
-Recommendation: Increase marketing spend and bolster inventory stock by mid-October to capture peak demand.
-
-📉 Underperforming Regions:
-
-Insight: The Southern region generates high sales volume but suffers from the lowest profit margins due to excessive discounting.
-
-Recommendation: Restrict maximum discount limits in this region to protect bottom-line profitability.
-
-⭐ Customer Retention:
-
-Insight: A Pareto principle applies—top 20% of customers account for over 60% of total revenue.
-
-Recommendation: Launch a targeted VIP loyalty and reward program tailored to high-value clients.
+Executive KPI Banner
